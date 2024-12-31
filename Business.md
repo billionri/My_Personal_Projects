@@ -1,1 +1,1 @@
-#### From comments to sentences - a script writer
+#### From the code comments to sentences - a script writer
