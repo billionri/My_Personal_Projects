@@ -1,4 +1,6 @@
-    if(!$("#myForm")[0].checkValidity()) {
+#### Check validation
+
+if(!$("#myForm")[0].checkValidity()) {
         $("#myForm")[0].reportValidity();
         return false;
     }
